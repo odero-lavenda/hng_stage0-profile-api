@@ -28,7 +28,7 @@ public class ProfileService {
 
         // Build user info
         UserInfo userInfo = new UserInfo();
-        userInfo.setName("Lavenda");
+        userInfo.setName("Sage");
         userInfo.setEmail("oderolavenda@mail.com");
         userInfo.setStack("Backend Development (Java/Spring Boot)");
 
